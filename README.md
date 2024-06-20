@@ -1,1 +1,2 @@
 # async_fifo
+This project involves the design and verification of an Asynchronous FIFO (First-In-First-Out) buffer using Verilog HDL. The FIFO operates with independent read and write clocks, making it suitable for use in systems with different clock domains. The project includes individual modules for the synchronizer, write pointer, read pointer, FIFO memory and main module, along with a comprehensive testbench for functionality verification. Simulation results are visualized using GTKWave.
